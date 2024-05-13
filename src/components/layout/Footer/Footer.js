@@ -22,9 +22,9 @@ function Footer() {
           <div className={styles.footer__section}>
             <h3>Siga-nos</h3>
             <ul className={styles.social__icons}>
-              <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i className="fa fa-instagram"></i></a></li>
+              <li><a href="https://www.youtube.com/watch?v=TPXr2fkz0EM"><i className="fa fa-facebook"></i></a></li>
+              <li><a href="https://www.youtube.com/watch?v=TPXr2fkz0EM"><i className="fa fa-twitter"></i></a></li>
+              <li><a href="https://www.youtube.com/watch?v=TPXr2fkz0EM"><i className="fa fa-instagram"></i></a></li>
             </ul>
           </div>
         </div>
