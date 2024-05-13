@@ -4,7 +4,7 @@ import styles from './Navbar.module.css'
 function Navbar (){
     return (
         <nav className={styles.navbar}>
-        <span>Exemple</span>
+        <span className={styles.example}>Exemplo</span>
         <ul className={styles.list}>
         <li className={styles.item}><Link to="/">Home</Link></li>
         <li className={styles.item}> <Link to ="/destinos">Destinos</Link></li>

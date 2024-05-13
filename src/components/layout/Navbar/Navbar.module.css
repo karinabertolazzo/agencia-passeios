@@ -1,8 +1,9 @@
 .navbar {
     display: flex;
-    justify-content: space-between;
-    background-color: rgba(34, 34, 34, 0.5);
+    justify-content: space-around;
+    background-color: rgba(8, 35, 192, 0.68);
     padding: 1em;
+    
 }
 
 
@@ -12,10 +13,12 @@
     align-items: center;
     margin: 0; 
     padding: 0; 
+    
 }
 
 .item {
-    margin-right: 1em;
+    margin-right: 20px;
+    
 }
 
 .item a {

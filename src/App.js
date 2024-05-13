@@ -4,7 +4,7 @@ import Destinos from "./components/layout/pages/Destinos/Destinos";
 import Sobre from "./components/layout/pages/Sobre/Sobre";
 import Contato from "./components/layout/pages/Contato/Contato";
 import Footer from "./components/layout/Footer/Footer"
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Navbar from './components/layout/Navbar/Navbar';
 
@@ -12,9 +12,6 @@ function App() {
   return (
 
      <>
-
-   
-
     <BrowserRouter>
     <Navbar />
    
