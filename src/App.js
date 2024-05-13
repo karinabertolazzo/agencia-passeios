@@ -17,7 +17,7 @@ function App() {
 
     <BrowserRouter>
     <Navbar />
-    <h1>Agência de Passeios</h1>
+   
       <Routes>
 
         <Route exact path="/" element ={<Home />} ></Route>/
